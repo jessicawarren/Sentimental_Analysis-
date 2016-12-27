@@ -75,9 +75,6 @@ ClientOne.set_query(query='carrie')
 for tweets in ClientOne.get_tweets():
     pprint(tweets)
 
-#kstep 1 authenticate
-
-
 
 
 
