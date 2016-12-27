@@ -64,10 +64,10 @@ class TwitterClient:
 
 
 
-consumer_key = 'CqloCfH9Z2k6rQPjE1kjFw1kd'
-consumer_secret = 'Up2yvaqpcDuqiofIQFusN1GUgr0b1Vc7FHyU36hijwPb4XHVD1'
-access_token = '769213509045542913-mLtrkguM5XajJwB6JqNBFRdYPvHhWKE'
-access_secret = '9Ut2ORBqRdcufsU405gXaZauawp4rhr1nn20sleeUY7uW'
+consumer_key = ' ' 
+consumer_secret = ' '
+access_token = ' '
+access_secret = ' ' 
 
 
 ClientOne = TwitterClient(consumer_key, consumer_secret, access_token, access_secret)
